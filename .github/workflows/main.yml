@@ -15,5 +15,5 @@ jobs:
         path: homebrew-robotraconteur
     - name: build robotraconteur
       run: brew install homebrew-robotraconteur/Formula/robotraconteur.rb
-      working-directory: vcpkg
+
     
